@@ -20,7 +20,9 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-
+import nextjs from "./tech/next.jpeg";
+import nestjs from "./tech/nestJs.png";
+import k8s from "./tech/k8s.jpeg";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
@@ -35,12 +37,15 @@ export {
   creator,
   mobile,
   web,
+  nextjs,
+  nestjs,
   github,
   menu,
   close,
   css,
   docker,
   figma,
+  k8s,
   git,
   html,
   javascript,
